@@ -4,9 +4,6 @@
   <test thread-count="2" parallel="methods" name="Test">
     <classes>
       <class name="com.testng.practice.MultipleTests">
-      <methods>
-      		<exclude name="dFour"></exclude>
-      </methods>
       
       </class>
       <class name="com.testng.practice.TestNGProgram"></class>
